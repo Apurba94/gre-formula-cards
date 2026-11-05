@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-formula-cards", "title": "Quant Formula Cards", "exam": "GRE", "area": "GRE Quant", "desc": "Spaced-repetition cards for the formulas and facts the GRE expects you to know without being given.", "content": ["formulas.json"], "n": 30};
